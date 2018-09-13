@@ -1,5 +1,5 @@
 # lybrandon.github.io
-# My Name
+# Brandon Ly
 
 ### I am an artist. This is my portfolio site.
 
