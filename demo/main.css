@@ -1,0 +1,32 @@
+body{
+  background-image: url("images/download.jpeg");
+  text-align: center;
+  width: 300px;
+  margin: 60px;
+}
+
+h1 {
+color:pink;
+background-color: black;
+}
+
+h1:hover {
+  background-color: grey;
+}
+
+h2 {
+  color:red;
+  background-color: purple;
+}
+
+.black-div{
+  background-color: black;
+  padding: 100px;
+  border: 50px solid grey;
+  margin: 50px;
+
+}
+
+.big-text {
+  font-size: 24px;
+}
